@@ -26,4 +26,7 @@
     - All 3-Star Songs
     - All New Music (from `new_music.txt`)
     - Load ~30 GB of 'other music' randomly]
-3. [Use device to "sync" only that newly made playlist.
+3. [Use device to "sync" only that newly made playlist.]
+
+# Re-Get Music (skipping)
+:small_orange_diamond: TBD
