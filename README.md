@@ -17,3 +17,13 @@
 4. Delete all duplicate folders in `new_music`
 5. Open Picard and re-name/organize stuff (will be saved in `new_music_renamed`)
 6. Move all albums from `new_music_renamed` into `music_preimport`
+7. Open iTunes
+8. Add all new music folders to Library (use list from `new_music.txt` for reference so you don't need to import everything and have iTunes take forever to find what's really new)
+
+# Reload Device
+1. [Delete all music off device]
+2. [Make new smart playlist with
+    - All 3-Star Songs
+    - All New Music (from `new_music.txt`)
+    - Load ~30 GB of 'other music' randomly]
+3. [Use device to "sync" only that newly made playlist.
