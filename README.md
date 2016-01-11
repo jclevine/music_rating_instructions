@@ -18,18 +18,24 @@
 5. If 1 big `flac` file: `cuebreakpoints file.cue | shnsplit -o flac file.flac`
 6. If/once multiple `flac`s: `find . -name *.flac -type f -exec flac2mp3 {} \;`
 7. Once converted, delete 'em: `find . -name *.flac -type f -exec rm {} \;`
-5. Open Picard and re-name/organize stuff (will be saved in `new_music_renamed`)
-6. Move all albums from `new_music_renamed` into `music_preimport`
-7. Open iTunes
-8. Add all new music folders to Library (use list from `new_music.txt` for reference so you don't need to import everything and have iTunes take forever to find what's really new)
+8. Open Picard and re-name/organize stuff (will be saved in `new_music_renamed`)
+9. Move all albums from `new_music_renamed` into `music_preimport`
+10. Open iTunes
+11. Add all new music folders to Library (use list from `new_music.txt` for reference so you don't need to import everything and have iTunes take forever to find what's really new)
 
 # Reload Device
 1. [Delete all music off device]
-2. [Make new smart playlist with
-    - All 3-Star Songs
-    - All New Music (from `new_music.txt`)
-    - Load ~30 GB of 'other music' randomly]
-3. [Use device to "sync" only that newly made playlist.]
+2. Make 2 smart playlists:
+    - Good & New
+        - Match any
+        - Rating is 3-stars (good music)
+        - Date Added is in the the last 1 days
+        - No Limit
+    - Random
+        - Playlist is not Good & New
+        - Limit to 30GB - [GB in Good & New]
+3. Make new playlist and copy 2 smart playlists into it
+4. [Use device to "sync" only that newly made playlist.]
 
 # Re-Get Music (skipping)
 :small_orange_diamond: TBD
