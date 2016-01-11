@@ -24,8 +24,7 @@
 11. Add all new music folders to Library (use list from `new_music.txt` for reference so you don't need to import everything and have iTunes take forever to find what's really new)
 
 # Reload Device
-1. [Delete all music off device]
-2. Make 2 smart playlists:
+1. Make 2 smart playlists:
     - Good & New
         - Match any
         - Rating is 3-stars (good music)
@@ -34,8 +33,16 @@
     - Random
         - Playlist is not Good & New
         - Limit to 30GB - [GB in Good & New]
-3. Make new playlist and copy 2 smart playlists into it
-4. [Use device to "sync" only that newly made playlist.]
+2. Make new playlist and copy 2 smart playlists into it
+3. BB Link
+4. Delete all music on device
+    - Click on device tab on left
+    - Click on Music
+    - Highlight All and Delete
+5. Click on This Computer Tab on left
+6. Open up Playlist tree
+7. Right-click new playlist made above with new, good, and random music.
+8. Copy-to device
 
 # Re-Get Music (skipping)
 :small_orange_diamond: TBD
