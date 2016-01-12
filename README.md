@@ -39,10 +39,11 @@
     - Click on device tab on left
     - Click on Music
     - Highlight All and Delete
-5. Click on This Computer Tab on left
-6. Open up Playlist tree
-7. Right-click new playlist made above with new, good, and random music.
-8. Copy-to device
+5. Delete Playlists on Device.
+6. Click on This Computer Tab on left
+7. Open up Playlist tree
+8. Right-click new playlist made above with new, good, and random music.
+9. Copy-to device
 
 # Re-Get Music (skipping)
 :small_orange_diamond: TBD
