@@ -1,10 +1,10 @@
 # Updating iTunes from Device
-1. BB Link
-2. Copy playlists m3us from SD/music dir on to desktop dir.
+1. Rocket Music -> Settings -> Export Playlists
+2. Copy playlists m3u3s from SD/music dir on to desktop dir.
 3. 3-Star/Downbeat/Re-download: Remove dupes
     - TextFX -> TestFX Tools -> Check Sort Outputs Only Unique and then sort.
 4. Search  = `.\*music/(.\*)`
-   Replace = `file://localhost/Z:/$1`
+   Replace = `file://localhost/M:/music/$1`
 5. File -> Library -> Import Playlist... (Alt-F, B, I)
 6. 1-Star: Highlight, Shift+Delete
 7. 2-Star: Highlight, Shift+Delete
@@ -19,7 +19,7 @@
 6. If/once multiple `flac`s: `find . -name *.flac -type f -exec flac2mp3 {} \;`
 7. Once converted, delete 'em: `find . -name *.flac -type f -exec rm {} \;`
 8. Open Picard and re-name/organize stuff (will be saved in `new_music_renamed`)
-9. Move all albums from `new_music_renamed` into `music_preimport`
+9. Move all albums from `new_music_renamed` into `music` ext HD.
 10. Open iTunes
 11. Add all new music folders to Library (use list from `new_music.txt` for reference so you don't need to import everything and have iTunes take forever to find what's really new)
 
