@@ -1,10 +1,14 @@
 # Updating iTunes from Device
+
+## Prep Playlists
 1. Rocket Music -> Settings -> Export Playlists
 2. Copy playlists m3u3s from SD/music dir on to desktop dir.
 3. 3-Star/Downbeat/Re-download: Remove dupes
     - TextFX -> TestFX Tools -> Check Sort Outputs Only Unique and then sort.
 4. Search  = `.\*music/(.\*)`
    Replace = `file://localhost/M:/music/$1`
+
+## Loading onto iTunes
 5. File -> Library -> Import Playlist... (Alt-F, B, I)
 6. 1-Star: Highlight, Shift+Delete
 7. 2-Star: Highlight, Shift+Delete
