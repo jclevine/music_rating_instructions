@@ -1,6 +1,6 @@
 # Updating iTunes from Device
 
-## Prep Playlists
+## Prep Playlists to Be iTunes-Friendly
 1. Rocket Music -> Settings -> Export Playlists
 2. Copy playlists m3u3s from SD/music dir on to desktop dir.
 3. 3-Star/Downbeat/Re-download: Remove dupes
@@ -8,11 +8,18 @@
 4. Search  = `.\*music/(.\*)`
    Replace = `file://localhost/M:/music/$1`
 
-## Loading onto iTunes
+## Using Playlists to Rate/Delete on iTunes
 5. File -> Library -> Import Playlist... (Alt-F, B, I)
 6. 1-Star: Highlight, Shift+Delete
 7. 2-Star: Highlight, Shift+Delete
 8. 3-Star: Highlight, Right-Click -> Rating -> 3-Star
+
+# Remove Bad Music from Device (using linux)
+1. Copy all bad songs to 1 file.
+2. Prepend file with `!#/bin/sh`
+3. Search  = `file://localhost/M:/music/(.*)`
+   Replace = `rm -f "/run/user/1000/gvfs/mtp:host.../music/$1"`
+4. Execute `bash -x ./del_bad_music.sh` (`-x` is to echo commands)
 
 # Get New Music
 1. Go to `where_am_i.txt`? in `new_music`?
