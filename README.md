@@ -1,7 +1,7 @@
 # Updating iTunes from Device
 
 ## Prep Playlists to Be iTunes-Friendly
-1. Rocket Music -> Settings -> Export Playlists
+1. Rocket Music -> Settings -> My Library -> Export Playlists
 2. Copy playlists m3u3s from SD/music dir on to desktop dir.
 3. 3-Star/Downbeat/Re-download: Remove dupes
     - TextFX -> TestFX Tools -> Check Sort Outputs Only Unique and then sort.
