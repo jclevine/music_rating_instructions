@@ -28,7 +28,8 @@
 3. Before removing from `or` list, write new music in `new_music.txt`?
 4. Delete all duplicate folders in `new_music`
 5. If 1 big `flac` file: `cuebreakpoints file.cue | shnsplit -o flac file.flac`
-6. If/once multiple `flac`s: `find . -name *.flac -type f -exec flac2mp3 {} \;`
+6. If/once multiple `flac`s: `find . -name *.flac -type f -exec flac2mp3 {} \;` or
+                    `find . -name *.flac -type f -exec ffmpeg -i "{}" -qscale:a 0 "{}.mp3" \;`  
 7. Once converted, delete 'em: `find . -name *.flac -type f -exec rm {} \;`
 8. Open Picard and re-name/organize stuff (will be saved in `new_music_renamed`)
 9. Move all albums from `new_music_renamed` into `music` ext HD.
