@@ -24,7 +24,7 @@
 
 # Get New Music
 1. Go to [`where_am_i.txt`](https://github.com/jclevine/music_rating_instructions/blob/master/new/where_am_i.txt)
-2. Get the next albums (will be saved in `new_music`)
+2. Get the next albums (save in [`new.txt`](https://github.com/jclevine/music_rating_instructions/blob/master/new/new.txt))
 3. Before removing from `or` list, write new music in `new_music.txt`?
 4. Delete all duplicate folders in `new_music`
 5. If 1 big `flac` file: `cuebreakpoints file.cue | shnsplit -o flac file.flac`
