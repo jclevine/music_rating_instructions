@@ -23,7 +23,7 @@
 4. Execute `bash -x ./del_bad_music.sh` (`-x` is to echo commands)
 
 # Get New Music
-1. Go to `where_am_i.txt`? in `new_music`?
+1. Go to [`where_am_i.txt`](https://github.com/jclevine/music_rating_instructions/blob/master/new/where_am_i.txt)
 2. Get the next albums (will be saved in `new_music`)
 3. Before removing from `or` list, write new music in `new_music.txt`?
 4. Delete all duplicate folders in `new_music`
