@@ -19,7 +19,7 @@
 1. Copy all bad songs to 1 file.
 2. Prepend file with `!#/bin/sh`
 3. Search  = `file://localhost/M:/music/(.*)`
-   Replace = `rm -f "/run/user/1000/gvfs/mtp:host.../music/$1"`
+   Replace = `rm -f "/run/user/1000/gvfs/mtp:host[...enter-actual-dir...]/music/$1"`
 4. Execute `bash -x ./del_bad_music.sh` (`-x` is to echo commands)
 
 # Get New Music
