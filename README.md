@@ -25,13 +25,13 @@
 # Get New Music
 1. Go to [`where_am_i.txt`](https://github.com/jclevine/music_rating_instructions/blob/master/new/where_am_i.txt)
 2. Get the next albums (save in [`new.txt`](https://github.com/jclevine/music_rating_instructions/blob/master/new/new.txt))
-3. Before removing from `or` list, write new music in `new_music.txt`?
 4. Delete all duplicate folders in `new_music`
 5. If 1 big `flac` file: `cuebreakpoints file.cue | shnsplit -o flac file.flac`
 6. If/once multiple `flac`s: `find . -name *.flac -type f -exec flac2mp3 {} \;` or
                     `find . -name *.flac -type f -exec ffmpeg -i "{}" -qscale:a 0 "{}.mp3" \;`  
 7. Once converted, delete 'em: `find . -name *.flac -type f -exec rm {} \;`
 8. Open Picard and re-name/organize stuff (will be saved in `new_music_renamed`)
+9. 3. `ll` -> `Ctrl + Drag` for column select in `new_music_renamed` folder to get [`new_music.txt`](https://github.com/jclevine/music_rating_instructions/blob/master/new/new.txt) content.
 9. Move all albums from `new_music_renamed` into `music` ext HD.
 10. Open iTunes
 11. Add all new music folders to Library (use list from `new_music.txt` for reference so you don't need to import everything and have iTunes take forever to find what's really new)
