@@ -31,7 +31,8 @@
                     `find . -name *.flac -type f -exec ffmpeg -i "{}" -qscale:a 0 "{}.mp3" \;`  
 7. Once converted, delete 'em: `find . -name *.flac -type f -exec rm {} \;`
 8. Open Picard and re-name/organize stuff (will be saved in `new_music_renamed`)
-9. 3. `ll` -> `Ctrl + Drag` for column select in `new_music_renamed` folder to get [`new_music.txt`](https://github.com/jclevine/music_rating_instructions/blob/master/new/new.txt) content.
+9. `ll` -> `Ctrl + Drag` for column select in `new_music_renamed` folder to get [`new_music.txt`](https://github.com/jclevine/music_rating_instructions/blob/master/new/new.txt) content.
+10. TBD -- how to update [`all_music.txt`](https://github.com/jclevine/music_rating_instructions/blob/master/music_lists/all_music.txt).
 9. Move all albums from `new_music_renamed` into `music` ext HD.
 10. Open iTunes
 11. Add all new music folders to Library (use list from `new_music.txt` for reference so you don't need to import everything and have iTunes take forever to find what's really new)
