@@ -2,7 +2,7 @@
 
 ## Prep Playlists to Be iTunes-Friendly
 1. Rocket Music -> Settings -> My Library -> Export Playlists
-2. Copy playlists m3u3s from Internal/Playlists dir to desktop dir.
+2. Copy playlists m3u3s from Internal/Playlists dir to desktop dir. Always use this dir for playlist locations.
 3. 3-Star/Downbeat/Re-download: Remove dupes
     - TextFX -> TestFX Tools -> Check Sort Outputs Only Unique and then sort.
 4. Search  = `.\*music/(.\*)`
