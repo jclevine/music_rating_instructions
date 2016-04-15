@@ -1,7 +1,7 @@
 # Organize/Rename One Album Already Here
 1. Open Picard
 2. Which was the [last year done](https://github.com/jclevine/music_rating_instructions/blob/master/new/last_year_done.txt)? 
-2. Add 1 music folder from `~/new_music` that was from the year in #2 intyo Picard.
+2. Add 1 music folder from `~/new_music` that was from the year in #2 into Picard.
 3. Edit [last year done](https://github.com/jclevine/music_rating_instructions/edit/master/new/last_year_done.txt) to be the next in line to do next time (eg. 50s -> 60s)
 4. Find/Rename files into `~/new_music_renamed`
 5. Delete dir in `~/new_music`
