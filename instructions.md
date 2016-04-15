@@ -16,10 +16,13 @@
 
 # Move New Music to Phone
 1. Attach phone to computer.
-2. Open up `sync` on both devices.
-3. On phone navigate to new folder
+2. Open up `sync` program on both devices.
+3. On phone navigate to new artist folder
 4. Press and hold that folder.
 5. Click sync.
+6. After finished, open Rocket to let it find the new music.
+
+Listen, rate, and enjoy!
 
 # Updating iTunes from Device
 
