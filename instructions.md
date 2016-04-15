@@ -24,27 +24,29 @@
 
 Listen, rate, and enjoy!
 
-# Updating iTunes from Device
-
-## Prep Playlists to Be iTunes-Friendly
+# Export Playlists to Be iTunes-Friendly
 1. Rocket Music -> Settings -> My Library -> Export Playlists
-2. Copy playlists m3u3s from Internal/Playlists dir to desktop dir. Always use this dir for playlist locations.
+2. Copy playlists m3u3s from Internal/Playlists (verify that this is true) dir to desktop dir.
+3. Merge these playlists with [playlists on github](https://github.com/jclevine/music_rating_instructions/tree/master/playlists).
 3. 3-Star/Downbeat/Re-download: Remove dupes
     - TextFX -> TestFX Tools -> Check Sort Outputs Only Unique and then sort.
-4. Search  = `.\*music/(.\*)`
-   Replace = `file://localhost/M:/music/$1`
+4. Search for linux-style = `.\*music/(.\*)` 
+   Replace with windows-style = `file://localhost/M:/music/$1`
 
-## Using Playlists to Rate/Delete on iTunes
-5. File -> Library -> Import Playlist... (Alt-F, B, I)
-6. 1-Star: Highlight, Shift+Delete
-7. 2-Star: Highlight, Shift+Delete
-8. 3-Star: Highlight, Right-Click -> Rating -> 3-Star
+# Using Playlists to Rate/Delete on iTunes
+1. Attach HD.
+2. Open `M:\` to verify it's connected
+3. File -> Library -> Import Playlist... (Alt-F, B, I)
+4. 1-Star: Highlight, Shift+Delete
+5. 2-Star: Highlight, Shift+Delete
+6. 3-Star: Highlight, Right-Click -> Rating -> 3-Star
 
 # Remove Bad Music from Device (using linux)
+1. Attach phone to computer.
 1. Copy all bad songs to 1 file.
 2. Prepend file with `!#/bin/sh`
-3. Search  = `file://localhost/M:/music/(.*)`
-   Replace = `rm -f "/run/user/1000/gvfs/mtp:host[...enter-actual-dir...]/music/$1"`
+3. Search  from windows-style = `file://localhost/M:/music/(.*)`
+   Replace with linux-style and deleting = `rm -f "/run/user/1000/gvfs/mtp:host[...enter-actual-dir...]/music/$1"`
 4. Execute `bash -x ./del_bad_music.sh` (`-x` is to echo commands)
 
 # Get New Music
@@ -61,28 +63,6 @@ Listen, rate, and enjoy!
 9. Move all albums from `new_music_renamed` into `music` ext HD.
 10. Open iTunes
 11. Add all new music folders to Library (use list from `new_music.txt` for reference so you don't need to import everything and have iTunes take forever to find what's really new)
-
-# Reload Device
-1. Make 2 smart playlists:
-    - Good & New
-        - Match any
-        - Rating is 3-stars (good music)
-        - Date Added is in the the last 1 days
-        - No Limit
-    - Random
-        - Playlist is not Good & New
-        - Limit to 30GB - [GB in Good & New]
-2. Make new playlist and copy 2 smart playlists into it
-3. BB Link
-4. Delete all music on device
-    - Click on device tab on left
-    - Click on Music
-    - Highlight All and Delete
-5. Delete Playlists on Device.
-6. Click on This Computer Tab on left
-7. Open up Playlist tree
-8. Right-click new playlist made above with new, good, and random music.
-9. Copy-to device
 
 # Re-Get Music (skipping)
 :small_orange_diamond: TBD
