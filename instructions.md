@@ -1,3 +1,26 @@
+# Organize/Rename One Album Already Here
+1. Open Picard
+2. Which was the [last year done](https://github.com/jclevine/music_rating_instructions/blob/master/new/last_year_done.txt)? 
+2. Add 1 music folder from `~/new_music` that was from the year in #2.
+3. Edit [last year done](https://github.com/jclevine/music_rating_instructions/edit/master/new/last_year_done.txt) to be the next in line to do next time (eg. 50s -> 60s)
+4. Find/Rename files into `~/new_music_renamed`
+5. Delete dir in `~/new_music`
+6. Copy music to HD.
+7. Delete from `~/new_music_renamed`
+
+# Import to iTunes
+1. Attach HD to Windows machine.
+2. Open `M:\` to verify it's attached.
+3. Open iTunes.
+4. Add new folder to iTunes.
+
+# Move New Music to Phone
+1. Attach phone to computer.
+2. Open up `sync` on both devices.
+3. On phone navigate to new folder
+4. Press and hold that folder.
+5. Click sync.
+
 # Updating iTunes from Device
 
 ## Prep Playlists to Be iTunes-Friendly
