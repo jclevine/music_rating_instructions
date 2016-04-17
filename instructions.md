@@ -15,12 +15,13 @@
 4. Add new folder to iTunes.
 
 # Move New Music to Phone
-1. Attach phone to computer.
-2. Open up `sync` program on both devices.
-3. On phone navigate to new artist folder
-4. Press and hold that folder.
-5. Click sync.
-6. After finished, open Rocket to let it find the new music.
+1. Attach HD to Desktop
+2. Verify `vsftpd` is running, otherwise `sudo service vsftpd start`
+3. Open Norton Commander on phone and open `linux` connection.
+4. Navigate to new folder to HD `/media/music/...`.
+5. Click on folder icon to select whole folder.
+6. Select `copy` icon at lower-left corner to `Copy/Move`.
+7. Select `/ext_sd/music` directory and `Copy`.
 
 Listen, rate, and enjoy!
 
