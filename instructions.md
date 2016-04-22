@@ -47,7 +47,7 @@ Listen, rate, and enjoy!
 1. Copy all bad songs to 1 file.
 2. Prepend file with `!#/bin/sh`
 3. Search  from windows-style = `file://localhost/M:/music/(.*)`
-   Replace with linux-style and deleting = `rm -f "/run/user/1000/gvfs/mtp:host[...enter-actual-dir...]/music/$1"`
+   Replace with linux-style and deleting = `rm -f "/run/user/1000/gvfs/mtp:host=%5Busb%3A002%2C004%5D/SD card/music/$1"`
 4. Execute `bash -x ./del_bad_music.sh` (`-x` is to echo commands)
 
 # Get New Music
