@@ -1,14 +1,12 @@
-Animal Collective/
-Aphex Twin/
-Arcade Fire/
-Archy Marshall/
-Bill Callahan/
-Frankie Lymon & The Teenagers/
-Grimes/
-James Brown/
-Kurt Vile/
-New Order/
-No Age/
-Randy Newman/
-Stereolab/
-Todd Terje/
+total 44
+drwxrwxr-x 11 jclevine jclevine 4096 May 15 12:57 ./
+drwxr-xr-x 37 jclevine jclevine 4096 May 15 12:14 ../
+drwxrwxr-x  4 jclevine jclevine 4096 May 15 12:51 Badly Drawn Boy/
+drwxrwxr-x  6 jclevine jclevine 4096 May 15 12:51 Bad Religion/
+drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:51 EMA/
+drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:53 Godspeed You! Black Emperor/
+drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:44 Killer Mike/
+drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:44 Robyn/
+drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:44 Shabazz Palaces/
+drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:44 The Knife/
+drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:51 Vince Staples/
