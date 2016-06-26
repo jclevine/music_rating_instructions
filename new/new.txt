@@ -1,12 +1,19 @@
-total 44
-drwxrwxr-x 11 jclevine jclevine 4096 May 15 12:57 ./
-drwxr-xr-x 37 jclevine jclevine 4096 May 15 12:14 ../
-drwxrwxr-x  4 jclevine jclevine 4096 May 15 12:51 Badly Drawn Boy/
-drwxrwxr-x  6 jclevine jclevine 4096 May 15 12:51 Bad Religion/
-drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:51 EMA/
-drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:53 Godspeed You! Black Emperor/
-drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:44 Killer Mike/
-drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:44 Robyn/
-drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:44 Shabazz Palaces/
-drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:44 The Knife/
-drwxrwxr-x  3 jclevine jclevine 4096 May 15 12:51 Vince Staples/
+total 72
+drwxrwxr-x 18 jclevine jclevine 4096 Jun 26 07:42 ./
+drwxr-xr-x 40 jclevine jclevine 4096 Jun 26 07:52 ../
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:40 Andy Stott/
+drwxrwxr-x  6 jclevine jclevine 4096 Jun 26 07:40 Beach House/
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:39 Béla Bartók/
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:39 Bon Iver/
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:40 Caribou/
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:40 Danny Brown/
+drwxrwxr-x 11 jclevine jclevine 4096 Jun 26 07:40 David Bowie/
+drwxrwxr-x  4 jclevine jclevine 4096 Jun 26 07:40 Fleet Foxes/
+drwxrwxr-x  9 jclevine jclevine 4096 Jun 26 07:40 Johnny Cash/
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:40 Miguel/
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:40 Sky Ferreira/
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:40 Sleigh Bells/
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:39 The Platters/
+drwxrwxr-x  6 jclevine jclevine 4096 Jun 26 07:40 U2/
+drwxrwxr-x  4 jclevine jclevine 4096 Jun 26 07:40 Weezer/
+drwxrwxr-x  3 jclevine jclevine 4096 Jun 26 07:40 Whitney/
