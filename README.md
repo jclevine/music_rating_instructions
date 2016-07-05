@@ -8,12 +8,6 @@
 6. Copy music to HD.
 7. Delete from `~/new_music_renamed`
 
-# Import to iTunes
-1. Attach HD to Windows machine.
-2. Open `M:\` to verify it's attached.
-3. Open iTunes.
-4. Add new folder to iTunes.
-
 # Move New Music to Phone
 1. Attach HD to Desktop
 2. Verify `vsftpd` is running, otherwise `sudo service vsftpd start`
@@ -24,6 +18,12 @@
 7. Select `/ext_sd/music` directory and `Copy`.
 
 Listen, rate, and enjoy!
+
+# Import to iTunes
+1. Attach HD to Windows machine.
+2. Open `M:\` to verify it's attached.
+3. Open iTunes.
+4. Add new folder to iTunes.
 
 # Export Playlists to Be iTunes-Friendly
 1. Rocket Music -> Settings -> My Library -> Export Playlists
