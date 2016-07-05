@@ -48,6 +48,7 @@ Listen, rate, and enjoy!
 2. Prepend file with `#!/bin/sh`
 3. Search  from windows-style = `file://localhost/M:/music/(.*)`
    Replace with linux-style and deleting = `if [ -f "/run/user/1000/gvfs/mtp:host=%5Busb%3A002%2C004%5D/SD card/music/$1" ]; then rm -f "/run/user/1000/gvfs/mtp:host=%5Busb%3A002%2C004%5D/SD card/music/$1"; fi`
+   *Note*: Verify that `mtp` part.
 4. Execute `bash -x ./del_bad_music.sh` (`-x` is to echo commands)
 
 # Get New Music
