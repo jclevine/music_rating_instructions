@@ -26,9 +26,6 @@ finished --> 2014 - #12 - http://pitchfork.com/features/lists-and-guides/9558-th
 
 
 Classical: Brahms
-Missing: 
-Leonard BernsteinHector Berlioz
-Georges Bizet
 
 New Music: Angel Olsen
 
@@ -36,8 +33,3 @@ New Music: Angel Olsen
 
 My Music
 Have up to Bruce Springsteen (some need flac convert) in new_music_renamed
-
-Not Finished
-Archer Prewitt
-Bad Astronaut
-Bis
