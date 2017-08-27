@@ -6,6 +6,17 @@ Bad Astronaut - ?
 Janelle Monae - The Electric Lady
 Father John Misty - Fear Fun
 Joanna Newsom - Ys & Divers
+WARNING:root:Album Not Found: Bob Dylan | Greatest Hits
+WARNING:root:Album Not Found: Bonnie _Prince_ Billy | I See a Darkness
+WARNING:root:Album Not Found: Bonnie _Prince_ Billy | Master and Everyone
+WARNING:root:Album Not Found: Bonnie _Prince_ Billy | The Letting Go
+WARNING:root:Album Not Found: Brian Eno | Ambient 1_ Music for Airports
+WARNING:root:Album Not Found: Built to Spill | Keep It Like a Secret
+WARNING:root:Album Not Found: Chromatics | Kill for Love
+WARNING:root:Album Not Found: Chuck Berry | Johnny B. Goode_ His Complete '50s Chess Recordings
+WARNING:root:Album Not Found: Chuck Berry | The Definitive Collection
+
+
 
 Classical Can't Find
 --------------------
