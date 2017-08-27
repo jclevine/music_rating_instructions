@@ -10,27 +10,27 @@
 
 finished --> 2000s - #35 - http://pitchfork.com/features/lists-and-guides/7709-the-top-200-albums-of-the-2000s-50-21/?page=2
 
-2010 - #18 - http://pitchfork.com/features/lists-and-guides/7893-the-top-50-albums-of-2010/4/
+2010 - #19 - http://pitchfork.com/features/lists-and-guides/7893-the-top-50-albums-of-2010/4/
 
-2011 - #18 - http://pitchfork.com/features/lists-and-guides/8727-the-top-50-albums-of-2011/4/
+2011 - #19 - http://pitchfork.com/features/lists-and-guides/8727-the-top-50-albums-of-2011/4/
 
-2012 - #16 - http://pitchfork.com/features/lists-and-guides/9017-the-top-50-albums-of-2012/4/
+2012 - #17 - http://pitchfork.com/features/lists-and-guides/9017-the-top-50-albums-of-2012/4/
 
-2013 - #17 - http://pitchfork.com/features/lists-and-guides/9293-the-top-50-albums-of-2013/4/
+2013 - #18 - http://pitchfork.com/features/lists-and-guides/9293-the-top-50-albums-of-2013/4/
 
-2014 - #12 - http://pitchfork.com/features/lists-and-guides/9558-the-50-best-albums-of-2014/?page=4
+2014 - #13 - http://pitchfork.com/features/lists-and-guides/9558-the-50-best-albums-of-2014/?page=4
 
-2015 - #11 - http://pitchfork.com/features/lists-and-guides/9764-the-50-best-albums-of-2015/?page=4
+2015 - #14 - http://pitchfork.com/features/lists-and-guides/9764-the-50-best-albums-of-2015/?page=4
 
-2016 - #10 - http://pitchfork.com/features/lists-and-guides/9980-the-50-best-albums-of-2016/?page=4
+2016 - #12 - http://pitchfork.com/features/lists-and-guides/9980-the-50-best-albums-of-2016/?page=4
 
-2010 - 2014 - #41 - http://pitchfork.com/features/lists-and-guides/9465-the-100-best-albums-of-the-decade-so-far-2010-2014/?page=3
+2010 - 2014 - #42 - http://pitchfork.com/features/lists-and-guides/9465-the-100-best-albums-of-the-decade-so-far-2010-2014/?page=3
 
 
-Classical: Anton Bruckner
+Classical: Aaron Copland
 
-New Music: War on Drugs
+New Music: Brand New
 ----
 
-My Music
+My Music - See https://github.com/jclevine/deezer-geezer/blob/master/missing-albums-1.txt
 Getting up to Amelie
