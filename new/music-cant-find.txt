@@ -15,6 +15,7 @@ WARNING:root:Album Not Found: Built to Spill | Keep It Like a Secret
 WARNING:root:Album Not Found: Chromatics | Kill for Love
 WARNING:root:Album Not Found: Chuck Berry | Johnny B. Goode_ His Complete '50s Chess Recordings
 WARNING:root:Album Not Found: Chuck Berry | The Definitive Collection
+WARNING:root:Album Not Found: George Acosta | Awake
 
 
 
