@@ -1,4 +1,5 @@
 Archer Prewitt - ? Some.
+WARNING:root:Album Not Found: Archer Prewitt | White Sky
 Bad Astronaut - ?
 
 --
@@ -6,17 +7,38 @@ Bad Astronaut - ?
 Janelle Monae - The Electric Lady
 Father John Misty - Fear Fun
 Joanna Newsom - Ys & Divers
+WARNING:root:Album Not Found: Alder | Long Way Down
+WARNING:root:Album Not Found: Aphex Twin | Selected Ambient Works 85-92
+WARNING:root:Album Not Found: Arcade Fire | Arcade Fire
+WARNING:root:Album Not Found: Armchair Martian vs. Bad Astronaut | War of the Worlds
+WARNING:root:Album Not Found: Bad Religion | Into the Unknown
+WARNING:root:Album Not Found: Bauhaus | Bela Lugosi's Dead
+WARNING:root:Album Not Found: Ben Folds Five | Naked Baby Photos
 WARNING:root:Album Not Found: Bob Dylan | Greatest Hits
 WARNING:root:Album Not Found: Bonnie _Prince_ Billy | I See a Darkness
 WARNING:root:Album Not Found: Bonnie _Prince_ Billy | Master and Everyone
 WARNING:root:Album Not Found: Bonnie _Prince_ Billy | The Letting Go
 WARNING:root:Album Not Found: Brian Eno | Ambient 1_ Music for Airports
+WARNING:root:Album Not Found: Buddy Holly | The Definitive Collection
 WARNING:root:Album Not Found: Built to Spill | Keep It Like a Secret
 WARNING:root:Album Not Found: Chromatics | Kill for Love
 WARNING:root:Album Not Found: Chuck Berry | Johnny B. Goode_ His Complete '50s Chess Recordings
 WARNING:root:Album Not Found: Chuck Berry | The Definitive Collection
+WARNING:root:Album Not Found: Clint Mansell | Moon
+WARNING:root:Album Not Found: Cluster | Zuckerzeit
+WARNING:root:Album Not Found: Coil | Gold Is the Metal (With the Broadest Shoulders)
+WARNING:root:Album Not Found: Compilations | Beneath the Icy Floe, Volume 3
+WARNING:root:Album Not Found: Compilations | Critical M@55, Volume 3
+WARNING:root:Album Not Found: Compilations | Global Underground 002_ Paul Oakenfold in New York
+WARNING:root:Album Not Found: Compilations | Industrial Mix Machine
+WARNING:root:Album Not Found: Compilations | Insound and Griffin Technology Present_ Pushing Product 8 Fall '06
+WARNING:root:Album Not Found: Compilations | Marche Slav and Other Russian Favorites
+WARNING:root:Album Not Found: Compilations | MTV 120 Minutes Live
+WARNING:root:Album Not Found: Compilations | The 2 Tone Collection_ A Checkered Past
+WARNING:root:Album Not Found: Compilations | The Mod Squad
+WARNING:root:Album Not Found: De La Soul | 3 Feet High and Rising
 WARNING:root:Album Not Found: George Acosta | Awake
-
+WARNING:root:Album Not Found: Phil Spector | Back to Mono (1958-1969)
 
 
 Classical Can't Find
