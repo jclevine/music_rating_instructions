@@ -36,8 +36,16 @@ WARNING:root:Album Not Found: Compilations | Marche Slav and Other Russian Favor
 WARNING:root:Album Not Found: Compilations | MTV 120 Minutes Live
 WARNING:root:Album Not Found: Compilations | The 2 Tone Collection_ A Checkered Past
 WARNING:root:Album Not Found: Compilations | The Mod Squad
+WARNING:root:Album Not Found: Compilations | Trance Europe, Vol. 2_ Aural Electronic Dreams
+WARNING:root:Album Not Found: Compilations | TV Terror_ Felching a Dead Horse
+WARNING:root:Album Not Found: Cranes | Everywhere
+WARNING:root:Album Not Found: Cranes | Jewel
+WARNING:root:Album Not Found: Cursive | Burst and Bloom
+WARNING:root:Album Not Found: David Byrne & Brian Eno | Everything That Happens Will Happen Today
 WARNING:root:Album Not Found: De La Soul | 3 Feet High and Rising
+WARNING:root:Album Not Found: Dead Can Dance | Into the Labyrinth
 WARNING:root:Album Not Found: George Acosta | Awake
+WARNING:root:Album Not Found: Paul Oakenfold | Tranceport
 WARNING:root:Album Not Found: Phil Spector | Back to Mono (1958-1969)
 
 
