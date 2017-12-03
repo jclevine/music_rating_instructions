@@ -1,12 +1,12 @@
-50s  - #31 - http://www.nme.com/list/100-best-songs-of-the-1950s/262449/page/8
+50s  - #32 - http://www.nme.com/list/100-best-songs-of-the-1950s/262449/page/8
 
-60s - #38 - http://pitchfork.com/features/staff-lists/6404-the-200-greatest-songs-of-the-1960s/3/
+60s - #39 - http://pitchfork.com/features/staff-lists/6404-the-200-greatest-songs-of-the-1960s/3/
 
-70s - #19 - http://www.superseventies.com/50essent.html
+70s - #20 - http://www.superseventies.com/50essent.html
 
-80s - #34 - http://pitchfork.com/features/lists-and-guides/5882-top-100-albums-of-the-1980s/?page=7
+80s - #35 - http://pitchfork.com/features/lists-and-guides/5882-top-100-albums-of-the-1980s/?page=7
 
-90s - #57- http://pitchfork.com/features/lists-and-guides/5923-top-100-albums-of-the-1990s/5/
+----> finished 90s - #58- http://pitchfork.com/features/lists-and-guides/5923-top-100-albums-of-the-1990s/5/
 
 2000s - #35 - http://pitchfork.com/features/lists-and-guides/7709-the-top-200-albums-of-the-2000s-50-21/?page=2
 
@@ -31,4 +31,4 @@ Classical: Debussy
 
 New Music: LCD Soundsystem - american dream
 
-----> finished My Music - See https://github.com/jclevine/deezer-geezer/blob/master/missing-albums-1.txt
+My Music - See https://github.com/jclevine/deezer-geezer/blob/master/missing-albums-1.txt
