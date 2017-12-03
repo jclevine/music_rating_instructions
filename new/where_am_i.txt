@@ -29,8 +29,6 @@
 
 Classical: Debussy
 
-----> finished New Music: LCD Soundsystem - american dream
-----
+New Music: LCD Soundsystem - american dream
 
-My Music - See https://github.com/jclevine/deezer-geezer/blob/master/missing-albums-1.txt
-Getting up to Amelie
+----> finished My Music - See https://github.com/jclevine/deezer-geezer/blob/master/missing-albums-1.txt
