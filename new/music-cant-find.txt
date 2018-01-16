@@ -44,7 +44,15 @@ WARNING:root:Album Not Found: Cursive | Burst and Bloom
 WARNING:root:Album Not Found: David Byrne & Brian Eno | Everything That Happens Will Happen Today
 WARNING:root:Album Not Found: De La Soul | 3 Feet High and Rising
 WARNING:root:Album Not Found: Dead Can Dance | Into the Labyrinth
+WARNING:root:Album Not Found: DEVO | Q_ Are We Not Men_ A_ We Are Devo!
+WARNING:root:Album Not Found: De_Vision | Blue Moon
+WARNING:root:Album Not Found: De_Vision | Boy on the Street
+WARNING:root:Album Not Found: De_Vision | Fairyland_
+WARNING:root:Album Not Found: De_Vision | Foreigner
+WARNING:root:Album Not Found: De_Vision | World Without End
 WARNING:root:Album Not Found: George Acosta | Awake
+Jay-Z/Kanye Waste - Watch the Throne
+Jai Paul - Jai Paul
 WARNING:root:Album Not Found: Paul Oakenfold | Tranceport
 WARNING:root:Album Not Found: Phil Spector | Back to Mono (1958-1969)
 
