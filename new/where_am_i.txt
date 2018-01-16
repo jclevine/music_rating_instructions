@@ -6,7 +6,7 @@
 
 80s - #35 - http://pitchfork.com/features/lists-and-guides/5882-top-100-albums-of-the-1980s/?page=7
 
-----> finished 90s - #58- http://pitchfork.com/features/lists-and-guides/5923-top-100-albums-of-the-1990s/5/
+90s - #58- http://pitchfork.com/features/lists-and-guides/5923-top-100-albums-of-the-1990s/5/
 
 2000s - #36 - http://pitchfork.com/features/lists-and-guides/7709-the-top-200-albums-of-the-2000s-50-21/?page=2
 
@@ -33,4 +33,4 @@ Classical: Dvorak
 
 New Music: CupcakKe - Ephorize
 
-My Music - See https://github.com/jclevine/deezer-geezer/blob/master/missing-albums-1.txt
+----> finished My Music - See https://github.com/jclevine/deezer-geezer/blob/master/missing-albums-1.txt
