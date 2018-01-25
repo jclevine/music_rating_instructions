@@ -51,6 +51,7 @@ WARNING:root:Album Not Found: De_Vision | Fairyland_
 WARNING:root:Album Not Found: De_Vision | Foreigner
 WARNING:root:Album Not Found: De_Vision | World Without End
 WARNING:root:Album Not Found: George Acosta | Awake
+Tom Waits - Small Change
 Jay-Z/Kanye Waste - Watch the Throne
 Jai Paul - Jai Paul
 WARNING:root:Album Not Found: Paul Oakenfold | Tranceport
