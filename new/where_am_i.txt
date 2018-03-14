@@ -1,6 +1,6 @@
 50s  - #33 - http://www.nme.com/list/100-best-songs-of-the-1950s-1155
 
-60s - #40 - https://pitchfork.com/features/lists-and-guides/6405-the-200-greatest-songs-of-the-1960s/?page=8
+ ----> finished 60s - #40 - https://pitchfork.com/features/lists-and-guides/6405-the-200-greatest-songs-of-the-1960s/?page=8
 
 70s - #20 - http://www.superseventies.com/50essent.html
 
@@ -33,4 +33,4 @@ Classical: Dvorak
 
 New Music: CupcakKe - Ephorize
 
-----> finished My Music - See https://github.com/jclevine/deezer-geezer/blob/master/missing-albums-1.txt
+My Music - See https://github.com/jclevine/deezer-geezer/blob/master/missing-albums-1.txt
