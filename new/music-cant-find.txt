@@ -1,62 +1,77 @@
+Alder
+Alder | Long Way Down
+Alkaline Trio|Good Mourning
+Andy Stott
+Anna Roland
+Aphex Twin | Selected Ambient Works 85-92
+Aphex Twin|Selected Ambient Works 85-92
+Arcade Fire | Arcade Fire
+Arcade Fire|Arcade Fire
+Arcade Fire|The Suburbs
+Archer Prewitt
 Archer Prewitt - ? Some.
-WARNING:root:Album Not Found: Archer Prewitt | White Sky
+Archer Prewitt | White Sky
+Armchair Martian vs. Bad Astronaut | War of the Worlds
 Bad Astronaut - ?
-
---
-
-Janelle Monae - The Electric Lady
+Bad Religion | Into the Unknown
+Bad Religion|80-85
+Bad Religion|Into the Unknown
+Bauhaus | Bela Lugosi's Dead
+Ben Folds Five | Naked Baby Photos
+Beyonce|Lemonade
+Bob Dylan | Greatest Hits
+Bonnie _Prince_ Billy | I See a Darkness
+Bonnie _Prince_ Billy | Master and Everyone
+Bonnie _Prince_ Billy | The Letting Go
+Brian Eno | Ambient 1_ Music for Airports
+Buddy Holly | The Definitive Collection
+Built to Spill | Keep It Like a Secret
+Chromatics | Kill for Love
+Chromatics|Chrome Rats vs. Basement Rutz
+Chromatics|Kill for Love
+Chromatics|Night Drive
+Chromatics|Plaster Hounds
+Chuck Berry | Johnny B. Goode_ His Complete '50s Chess Recordings
+Chuck Berry | The Definitive Collection
+Clint Mansell | Moon
+Cluster | Zuckerzeit
+Coil | Gold Is the Metal (With the Broadest Shoulders)
+Compilations | Beneath the Icy Floe, Volume 3
+Compilations | Critical M@55, Volume 3
+Compilations | Global Underground 002_ Paul Oakenfold in New York
+Compilations | Industrial Mix Machine
+Compilations | Insound and Griffin Technology Present_ Pushing Product 8 Fall '06
+Compilations | MTV 120 Minutes Live
+Compilations | Marche Slav and Other Russian Favorites
+Compilations | TV Terror_ Felching a Dead Horse
+Compilations | The 2 Tone Collection_ A Checkered Past
+Compilations | The Mod Squad
+Compilations | Trance Europe, Vol. 2_ Aural Electronic Dreams
+Cranes | Everywhere
+Cranes | Jewel
+Cursive | Burst and Bloom
+DEVO | Q_ Are We Not Men_ A_ We Are Devo!
+David Byrne & Brian Eno | Everything That Happens Will Happen Today
+De La Soul | 3 Feet High and Rising
+De_Vision | Blue Moon
+De_Vision | Boy on the Street
+De_Vision | Fairyland_
+De_Vision | Foreigner
+De_Vision | World Without End
+Dead Can Dance | Into the Labyrinth
 Father John Misty - Fear Fun
-Joanna Newsom - Ys & Divers
-WARNING:root:Album Not Found: Alder | Long Way Down
-WARNING:root:Album Not Found: Aphex Twin | Selected Ambient Works 85-92
-WARNING:root:Album Not Found: Arcade Fire | Arcade Fire
-WARNING:root:Album Not Found: Armchair Martian vs. Bad Astronaut | War of the Worlds
-WARNING:root:Album Not Found: Bad Religion | Into the Unknown
-WARNING:root:Album Not Found: Bauhaus | Bela Lugosi's Dead
-WARNING:root:Album Not Found: Ben Folds Five | Naked Baby Photos
-WARNING:root:Album Not Found: Bob Dylan | Greatest Hits
-WARNING:root:Album Not Found: Bonnie _Prince_ Billy | I See a Darkness
-WARNING:root:Album Not Found: Bonnie _Prince_ Billy | Master and Everyone
-WARNING:root:Album Not Found: Bonnie _Prince_ Billy | The Letting Go
-WARNING:root:Album Not Found: Brian Eno | Ambient 1_ Music for Airports
-WARNING:root:Album Not Found: Buddy Holly | The Definitive Collection
-WARNING:root:Album Not Found: Built to Spill | Keep It Like a Secret
-WARNING:root:Album Not Found: Chromatics | Kill for Love
-WARNING:root:Album Not Found: Chuck Berry | Johnny B. Goode_ His Complete '50s Chess Recordings
-WARNING:root:Album Not Found: Chuck Berry | The Definitive Collection
-WARNING:root:Album Not Found: Clint Mansell | Moon
-WARNING:root:Album Not Found: Cluster | Zuckerzeit
-WARNING:root:Album Not Found: Coil | Gold Is the Metal (With the Broadest Shoulders)
-WARNING:root:Album Not Found: Compilations | Beneath the Icy Floe, Volume 3
-WARNING:root:Album Not Found: Compilations | Critical M@55, Volume 3
-WARNING:root:Album Not Found: Compilations | Global Underground 002_ Paul Oakenfold in New York
-WARNING:root:Album Not Found: Compilations | Industrial Mix Machine
-WARNING:root:Album Not Found: Compilations | Insound and Griffin Technology Present_ Pushing Product 8 Fall '06
-WARNING:root:Album Not Found: Compilations | Marche Slav and Other Russian Favorites
-WARNING:root:Album Not Found: Compilations | MTV 120 Minutes Live
-WARNING:root:Album Not Found: Compilations | The 2 Tone Collection_ A Checkered Past
-WARNING:root:Album Not Found: Compilations | The Mod Squad
-WARNING:root:Album Not Found: Compilations | Trance Europe, Vol. 2_ Aural Electronic Dreams
-WARNING:root:Album Not Found: Compilations | TV Terror_ Felching a Dead Horse
-WARNING:root:Album Not Found: Cranes | Everywhere
-WARNING:root:Album Not Found: Cranes | Jewel
-WARNING:root:Album Not Found: Cursive | Burst and Bloom
-WARNING:root:Album Not Found: David Byrne & Brian Eno | Everything That Happens Will Happen Today
-WARNING:root:Album Not Found: De La Soul | 3 Feet High and Rising
-WARNING:root:Album Not Found: Dead Can Dance | Into the Labyrinth
-WARNING:root:Album Not Found: DEVO | Q_ Are We Not Men_ A_ We Are Devo!
-WARNING:root:Album Not Found: De_Vision | Blue Moon
-WARNING:root:Album Not Found: De_Vision | Boy on the Street
-WARNING:root:Album Not Found: De_Vision | Fairyland_
-WARNING:root:Album Not Found: De_Vision | Foreigner
-WARNING:root:Album Not Found: De_Vision | World Without End
-WARNING:root:Album Not Found: George Acosta | Awake
-Tom Waits - Small Change
-Jay-Z/Kanye Waste - Watch the Throne
+George Acosta | Awake
 Jai Paul - Jai Paul
-WARNING:root:Album Not Found: Paul Oakenfold | Tranceport
-WARNING:root:Album Not Found: Phil Spector | Back to Mono (1958-1969)
-
+Janelle Monae - The Electric Lady
+Jay Z/Kanye West|Watch the Throne
+Jay-Z/Kanye Waste - Watch the Throne
+Joanna Newsom - Ys & Divers
+Paul Oakenfold | Tranceport
+Phil Spector | Back to Mono (1958-1969)
+Tom Waits - Small Change
+Ty Segall|Hair
+Ty Segall|Twins
+Ty Segall|[Drag City]
 
 Classical Can't Find
 --------------------
